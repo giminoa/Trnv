@@ -2,6 +2,8 @@
 
 Bu rehber, turnuva yönetim sistemini hosting sağlayıcınıza nasıl yükleyeceğinizi adım adım açıklar.
 
+https://github.com/giminoa/Trnv.git
+
 ## 📋 Sistem Gereksinimleri
 
 ### Backend Gereksinimleri
