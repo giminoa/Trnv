@@ -1,0 +1,12 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "npm start"
+
+[[services]]
+name = "turnuva-backend"
+port = 5000
+
+[env]
+NODE_ENV = "production"

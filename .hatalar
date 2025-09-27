@@ -1,0 +1,182 @@
+api.js:64  GET https://turnuva.taktisyen.net/api/tournaments?limit=6 404 (Not Found)
+(anonymous) @ xhr.js:198
+xhr @ xhr.js:15
+mr @ dispatchRequest.js:51
+Promise.then
+_request @ Axios.js:163
+request @ Axios.js:40
+vr.<computed> @ Axios.js:211
+(anonymous) @ bind.js:5
+_r @ api.js:64
+staleTime @ HomePage.js:19
+fetchFn @ query.js:300
+c @ retryer.js:95
+u @ retryer.js:156
+t.fetch @ query.js:332
+n.executeFetch @ queryObserver.js:199
+n.onSubscribe @ queryObserver.js:40
+t.subscribe @ subscribable.js:16
+(anonymous) @ useBaseQuery.js:60
+no @ react-dom.production.min.js:243
+wc @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:281
+w @ scheduler.production.min.js:13
+P @ scheduler.production.min.js:14
+api.js:64  GET https://turnuva.taktisyen.net/api/tournaments?limit=3 404 (Not Found)
+(anonymous) @ xhr.js:198
+xhr @ xhr.js:15
+mr @ dispatchRequest.js:51
+Promise.then
+_request @ Axios.js:163
+request @ Axios.js:40
+vr.<computed> @ Axios.js:211
+(anonymous) @ bind.js:5
+_r @ api.js:64
+staleTime @ HomePage.js:26
+fetchFn @ query.js:300
+c @ retryer.js:95
+u @ retryer.js:156
+t.fetch @ query.js:332
+n.executeFetch @ queryObserver.js:199
+n.onSubscribe @ queryObserver.js:40
+t.subscribe @ subscribable.js:16
+(anonymous) @ useBaseQuery.js:60
+no @ react-dom.production.min.js:243
+wc @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:281
+w @ scheduler.production.min.js:13
+P @ scheduler.production.min.js:14
+api.js:64  GET https://turnuva.taktisyen.net/api/tournaments?limit=6 404 (Not Found)
+(anonymous) @ xhr.js:198
+xhr @ xhr.js:15
+mr @ dispatchRequest.js:51
+Promise.then
+_request @ Axios.js:163
+request @ Axios.js:40
+vr.<computed> @ Axios.js:211
+(anonymous) @ bind.js:5
+_r @ api.js:64
+staleTime @ HomePage.js:19
+fetchFn @ query.js:300
+c @ retryer.js:95
+(anonymous) @ retryer.js:149
+Promise.then
+(anonymous) @ retryer.js:145
+Promise.catch
+c @ retryer.js:116
+u @ retryer.js:156
+t.fetch @ query.js:332
+n.executeFetch @ queryObserver.js:199
+n.onSubscribe @ queryObserver.js:40
+t.subscribe @ subscribable.js:16
+(anonymous) @ useBaseQuery.js:60
+no @ react-dom.production.min.js:243
+wc @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:281
+w @ scheduler.production.min.js:13
+P @ scheduler.production.min.js:14
+api.js:64  GET https://turnuva.taktisyen.net/api/tournaments?limit=3 404 (Not Found)
+(anonymous) @ xhr.js:198
+xhr @ xhr.js:15
+mr @ dispatchRequest.js:51
+Promise.then
+_request @ Axios.js:163
+request @ Axios.js:40
+vr.<computed> @ Axios.js:211
+(anonymous) @ bind.js:5
+_r @ api.js:64
+staleTime @ HomePage.js:26
+fetchFn @ query.js:300
+c @ retryer.js:95
+(anonymous) @ retryer.js:149
+Promise.then
+(anonymous) @ retryer.js:145
+Promise.catch
+c @ retryer.js:116
+u @ retryer.js:156
+t.fetch @ query.js:332
+n.executeFetch @ queryObserver.js:199
+n.onSubscribe @ queryObserver.js:40
+t.subscribe @ subscribable.js:16
+(anonymous) @ useBaseQuery.js:60
+no @ react-dom.production.min.js:243
+wc @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:281
+w @ scheduler.production.min.js:13
+P @ scheduler.production.min.js:14
+query.js:358 Qn {message: 'Request failed with status code 404', name: 'AxiosError', code: 'ERR_BAD_REQUEST', config: {…}, request: XMLHttpRequest, …}
+onError @ query.js:358
+f @ retryer.js:67
+(anonymous) @ retryer.js:132
+Promise.catch
+c @ retryer.js:116
+(anonymous) @ retryer.js:149
+Promise.then
+(anonymous) @ retryer.js:145
+Promise.catch
+c @ retryer.js:116
+u @ retryer.js:156
+t.fetch @ query.js:332
+n.executeFetch @ queryObserver.js:199
+n.onSubscribe @ queryObserver.js:40
+t.subscribe @ subscribable.js:16
+(anonymous) @ useBaseQuery.js:60
+no @ react-dom.production.min.js:243
+wc @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:281
+w @ scheduler.production.min.js:13
+P @ scheduler.production.min.js:14
+query.js:358 Qn {message: 'Request failed with status code 404', name: 'AxiosError', code: 'ERR_BAD_REQUEST', config: {…}, request: XMLHttpRequest, …}
+onError @ query.js:358
+f @ retryer.js:67
+(anonymous) @ retryer.js:132
+Promise.catch
+c @ retryer.js:116
+(anonymous) @ retryer.js:149
+Promise.then
+(anonymous) @ retryer.js:145
+Promise.catch
+c @ retryer.js:116
+u @ retryer.js:156
+t.fetch @ query.js:332
+n.executeFetch @ queryObserver.js:199
+n.onSubscribe @ queryObserver.js:40
+t.subscribe @ subscribable.js:16
+(anonymous) @ useBaseQuery.js:60
+no @ react-dom.production.min.js:243
+wc @ react-dom.production.min.js:285
+(anonymous) @ react-dom.production.min.js:281
+w @ scheduler.production.min.js:13
+P @ scheduler.production.min.js:14
+completion_list.html?username=&colorScheme=&screenX=0&screenY=0&effectiveWindowWidth=1443.72&isDark…:14  GET chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/heuristicsRedefinitions.js net::ERR_FILE_NOT_FOUND
+chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/heuristicsRedefinitions.js:1  Failed to load resource: net::ERR_FILE_NOT_FOUND
+completion_list.html?username=&colorScheme=&screenX=0&screenY=0&effectiveWindowWidth=1443.72&isDark…:13  GET chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/extensionState.js net::ERR_FILE_NOT_FOUND
+chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/extensionState.js:1  Failed to load resource: net::ERR_FILE_NOT_FOUND
+completion_list.html?username=&colorScheme=&screenX=0&screenY=0&effectiveWindowWidth=1443.72&isDark…:12  GET chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/utils.js net::ERR_FILE_NOT_FOUND
+chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/utils.js:1  Failed to load resource: net::ERR_FILE_NOT_FOUND
+completion_list.html?username=admin@turnuva.taktisyen.net&colorScheme=&screenX=0&screenY=0&effectiv…:13  GET chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/extensionState.js net::ERR_FILE_NOT_FOUND
+completion_list.html?username=admin@turnuva.taktisyen.net&colorScheme=&screenX=0&screenY=0&effectiv…:12  GET chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/utils.js net::ERR_FILE_NOT_FOUND
+completion_list.html?username=admin@turnuva.taktisyen.net&colorScheme=&screenX=0&screenY=0&effectiv…:14  GET chrome-extension://pejdijmoenmkgeppbflobdenhhabjlaj/heuristicsRedefinitions.js net::ERR_FILE_NOT_FOUND
+api.js:45  POST https://turnuva.taktisyen.net/api/auth/login 404 (Not Found)
+(anonymous) @ xhr.js:198
+xhr @ xhr.js:15
+mr @ dispatchRequest.js:51
+Promise.then
+_request @ Axios.js:163
+request @ Axios.js:40
+(anonymous) @ Axios.js:224
+(anonymous) @ bind.js:5
+Er @ api.js:45
+login @ AuthContext.js:100
+onSubmit @ LoginPage.js:35
+Ae @ react-dom.production.min.js:54
+Ue @ react-dom.production.min.js:54
+(anonymous) @ react-dom.production.min.js:55
+Fa @ react-dom.production.min.js:105
+Ma @ react-dom.production.min.js:106
+(anonymous) @ react-dom.production.min.js:117
+cc @ react-dom.production.min.js:273
+Re @ react-dom.production.min.js:52
+Qa @ react-dom.production.min.js:109
+Vt @ react-dom.production.min.js:74
+Ht @ react-dom.production.min.js:73
